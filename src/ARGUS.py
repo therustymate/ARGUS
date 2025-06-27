@@ -7,7 +7,7 @@ GLOBAL_TITLE = """
 
                 
 A.R.G.U.S - Advanced Recon Gathering for Universal Surveillance
-Prsent By HATZ Community (@mastermind65535)
+Prsent By @therustymate
 """
 
 GLOBAL_DISCLAIMER = """
