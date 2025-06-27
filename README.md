@@ -1,6 +1,6 @@
 # ARGUS
 A.R.G.U.S – Advanced Recon Gathering for Universal Surveillance<br>
-Present By [HATZ Community](https://discord.gg/frjwgaEzZ3) (@mastermind65535)
+Present By @therustymate
 
 ## Disclaimer
 > This software is intended ***exclusively for educational purposes and ethical cybersecurity research***. It is designed to help users understand potential vulnerabilities in systems so they can improve their security.
